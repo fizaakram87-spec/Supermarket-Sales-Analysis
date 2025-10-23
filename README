@@ -1,0 +1,56 @@
+#  Supermarket Sales Analysis
+
+This project analyzes supermarket sales data to uncover trends in customer behavior, revenue generation, and payment preferences.
+
+---
+
+##  Project Overview
+The dataset contains detailed records of supermarket transactions, including branch, city, gender, product line, customer type, sales, rating, and time.  
+The goal is to find insights that can help improve sales strategies and customer satisfaction.
+
+---
+
+##  Key Questions & Findings
+
+### Which branch earns the most revenue?
+**Branch Giza** earns the most revenue.
+
+### Which product lines are most popular?
+**Fashion Accessories** are the most popular among customers.
+
+###  How do customer type and gender affect spending?
+**Female members** spend the most on average.
+
+### Which payment methods are preferred?
+**E-wallet** is the most preferred payment method.
+
+### Who is most satisfied?
+**Male customers** give slightly higher ratings compared to females.
+
+###  How does time affect sales?
+Most purchases occur **in the evening**, especially around **7 PM**.  
+Sales are lowest during **morning hours**.
+
+---
+
+##  Tools Used
+- Python 🐍  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+
+---
+
+##  Insights Summary
+- Giza branch drives the most revenue  
+- Fashion Accessories sell the most  
+- Female members spend more  
+- E-wallet is the top payment option  
+- Male customers are slightly more satisfied  
+- Evening hours see the highest sales  
+
+---
+
+## Author
+**Fiza Akram**  
+*Data Science Enthusiast | Student | Exploring real-world insights through Python*
